@@ -1,0 +1,44 @@
+kwangsuk.moon@koreanre.com
+
+AWS 교육 및 행사 자료 다운로드
+https://aws.amazon.com/ko/about-aws/events/
+
+개인통관고유부호
+P791150193936
+P791150193936 
+starlee.shop 개인도메인
+만료 2021.01.07
+
+star/Leehh0299!
+
+
+pacific-pride-268607
+
+Hyokyoung.work@gmail.com Lgcns@2020
+awskrug.slack.com
+
+
+
+ 국내 서비스 가용지역(데이터센터)의 수에 따른 시스템 가용성
+ AWS(1Region 4AZ ), Azure(2Region), GCP(1Region 3Zone)
+ AWS는 근거리 센터간 이중화 강점, Azure는 원격 센터간 DR 구성 장점
+ GCP는 1Region 3Zone 구성으로 AWS와 유사할 것으로 예상됨 
+
+
+
+OS 시험  예상 문제
+EFS
+운영최적화 문제해결
+Cloud 기반 네트워크 설계
+컨테이너,쿠버네티스의 배포  방식
+
+컨테이너제약사항  내렸다 올리면 문제점?
+TEC > 아키텍쳐 >Cloud
+TEC 아키텍쳐 >OS /System
+현장프로젝트 문제 해결  사례
+
+백업방식
+LTO, DAT, VTL등 다른 미디어로 백업 위치를 지정
+img-an3-golden-ubuntu1804-plfm
+
+기본값 ism/date/ntp/wasadmin/docker/google sdk/gcr
